@@ -1,0 +1,46 @@
+p{
+    font-family: roboto;
+}
+.talk-p{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    width: 300px;
+    margin-bottom: 1px;
+ }
+ .video-stats{      
+    margin-top: 0;
+    margin-bottom: 16px;
+    color: rgb(96, 96, 96);
+ }
+ .marq-p{
+    font-size: 14px;
+    margin-top: 0;
+    color: rgb(96, 96, 96);
+
+ }
+ .tech-p{
+    width: 280px;
+    font-size: 14px;
+    color: rgb(95, 94, 94);
+    margin-bottom: 100px;
+ }
+ .shop-p{
+    color: white;
+    background-color: red;
+   padding-left: 16px;
+   padding-top: 16px;
+   padding-bottom: 16px;
+   padding-right: 16px;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 8px;
+    margin-right: 8px;
+ }
+.span-shop{
+    cursor: pointer;
+}
+.span-shop:hover{
+    text-decoration: underline;
+    
+ }
